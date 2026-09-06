@@ -2,7 +2,7 @@
 
 Vcds Audi Diagnostic Suite brings together Ross-Tech style scanning workflows, Hex-V2 cable support, and open-source libraries for Volkswagen Group vehicles. The collection targets owners and technicians who need VCDS-like ECU access without relying on a single closed toolchain. Python UDS services, KWP1281 K-Line tools, ELM327 utilities, and VAG CAN references are bundled so you can read fault codes, inspect measuring blocks, and prepare coding changes on Audi, VW, and related platforms.
 
-![Diagnostic session view](diagnostic_session.png)
+![Diagnostic session view](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVetQuZVFqAChOfZzYYgmNpF2fGaPEhqdRGf2pTGmQdEvFOv_d6HL4eTc&s=10)
 
 ## Why This Suite Exists
 
