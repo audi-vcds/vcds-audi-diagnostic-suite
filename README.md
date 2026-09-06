@@ -159,8 +159,6 @@ Useful when validating VCDS-like clients, mobile OBD apps, or custom dashboards 
 
 When decoding raw CAN logs, map request/response IDs to module names using `docs/vag_uds_can_ids.md`. The table lists components such as engine control (`0x7E0` / `0x7E8`), transmission (`0x7E1` / `0x7E9`), central electrics, gateway, airbag, and infotainment modules.
 
-![Coding workbench preview](coding_workbench.png)
-
 ### 6. Work with measuring blocks and adaptations (KWP1281)
 
 For pre-UDS modules, use the KWP1281 library to read measuring groups, convert raw bytes to engineering units, and execute basic settings. Fault elaboration headers provide human-readable strings in multiple languages; English tables ship in `kwp1281/fault_code_description_EN.h` and related files.
